@@ -1,11 +1,9 @@
 ---
-​---
 layout:     post
 title:      "Describe MobileNets"
 date:       2018-01-29 12:00:00
 author:     "Jian-Hui Duan"
 header-img: "img/post-bg-2015.jpg"
-​---
 ---
 
 # MobileNet
