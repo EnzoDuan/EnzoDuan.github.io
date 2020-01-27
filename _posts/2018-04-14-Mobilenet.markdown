@@ -10,7 +10,7 @@ header-img: "img/post-bg-2015.jpg"
 
 ## 1. **Depthwise Separable Convolution**
 
-![a.jpg](/_posts/img/dsc.png)
+![a.jpg](/img/in-post/img/dsc.png)
 
 原始图像大小为$D_F \times D_F$，如果channel一共有$M$个，卷积核大小为$D_k \times D_k$。
 
@@ -46,17 +46,13 @@ MobileNet的最大优势是将矩阵运算从原先的三维矩阵降低至二�
 
 这种优化可以被高度优化的GEMM（General Matrix Multiply）函数进行运算，接下来会有详细介绍。并且MobileNet的$1 \times 1$运算不同于普通卷积运算的一点是，普通卷积运算需要使用im2col函数把要运算的矩阵map到GEMM函数里面。
 
-##### GEMM等卷积运算详解
-
-
-
 #### MobileNet的结构与参数
 
-![](/Users/duan/Desktop/实习/任务/img/mobilenet.png)
+![](/img/in-post/img/mobilenet.png)
 
 整个网络有28层，单独的DW层与单独的PW层都算是一层。其中的s1,s2等表示stride=1或者stride=2，用来降采样。当然**每个卷积层之后都要紧跟着BN层，然后通过ReLU层。**整体网络的运算复杂度95%都在$1 \times 1$ 卷积的地方，并且这个那个网络的75%的参数也都在$1\times 1$卷积。
 
- <img src="/_posts/img/conv.png" width = "300" height = "200" alt="imgs/conv.png" /><img src="/_posts/img/para.png" width = "400" height = "200" alt="imgs/conv.png" />
+ <img src="/img/in-post/img/conv.png" width = "300" height = "200" alt="/img/in-post/img/conv.png" /><img src="/img/in-post/img/para.png" width = "400" height = "200" alt="/img/in-post/img/conv.png" />
 
 #### 两个参数
 
@@ -70,7 +66,7 @@ MobileNet的最大优势是将矩阵运算从原先的三维矩阵降低至二�
 
   
 
-  <img src="/_posts/img/45.png" width = "350" height = "200" /><img src="/_posts/img/67.png" width = "350" height = "200" />
+  <img src="/img/in-post/img/45.png" width = "350" height = "200" /><img src="/img/in-post/img/67.png" width = "350" height = "200" />
 
 
 
