@@ -12,7 +12,7 @@ header-img: "img/post-bg-2015.jpg"
 
 ## 1. **Depthwise Separable Convolution**
 
-![a.jpg](img/dsc.png)
+![a.jpg](/_posts/img/dsc.png)
 
 原始图像大小为$D_F \times D_F$，如果channel一共有$M$个，卷积核大小为$D_k \times D_k$。
 
@@ -58,7 +58,7 @@ MobileNet的最大优势是将矩阵运算从原先的三维矩阵降低至二�
 
 整个网络有28层，单独的DW层与单独的PW层都算是一层。其中的s1,s2等表示stride=1或者stride=2，用来降采样。当然**每个卷积层之后都要紧跟着BN层，然后通过ReLU层。**整体网络的运算复杂度95%都在$1 \times 1$ 卷积的地方，并且这个那个网络的75%的参数也都在$1\times 1$卷积。
 
- <img src="img/conv.png" width = "300" height = "200" alt="imgs/conv.png" /><img src="img/para.png" width = "400" height = "200" alt="imgs/conv.png" />
+ <img src="/_posts/img/conv.png" width = "300" height = "200" alt="imgs/conv.png" /><img src="/_posts/img/para.png" width = "400" height = "200" alt="imgs/conv.png" />
 
 #### 两个参数
 
@@ -72,7 +72,7 @@ MobileNet的最大优势是将矩阵运算从原先的三维矩阵降低至二�
 
   
 
-  <img src="img/45.png" width = "350" height = "200" /><img src="img/67.png" width = "350" height = "200" />
+  <img src="/_posts/img/45.png" width = "350" height = "200" /><img src="/_posts/img/67.png" width = "350" height = "200" />
 
 
 
