@@ -12,7 +12,13 @@ header-img: "img/post-bg-2015.jpg"
 
 ![a](/img/in-post/img/dsc.png)
 
-原始图像大小为$$D_F \times D_F$$，如果channel一共有$M$个，卷积核大小为$D_k \times D_k$。
+原始图像大小为$$
+
+ D_F \times D_F 
+
+$$，
+
+如果channel一共有$M$个，卷积核大小为$D_k \times D_k$。
 
 * **Depthwise Convolution**
 
