@@ -2,7 +2,7 @@
 layout:     post
 title:      "MobileNets Analysis: From V1 to V3"
 author:     "Jian-Hui Duan"
-tags: 网络压缩; Nets Compression
+tags: 网络压缩 Nets-Compression
 ---
 
 # MobileNet
