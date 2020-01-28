@@ -1,4 +1,7 @@
 ---
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 layout:     post
 title:      "Describe MobileNets"
 date:       2018-01-29 12:00:00
