@@ -4,9 +4,6 @@ title:      "Describe MobileNets"
 date:       2018-01-29 12:00:00
 author:     "Jian-Hui Duan"
 header-img: "img/post-bg-2015.jpg"
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 ---
 
 # MobileNet
