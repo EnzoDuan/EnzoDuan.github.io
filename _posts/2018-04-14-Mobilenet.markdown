@@ -12,13 +12,7 @@ header-img: "img/post-bg-2015.jpg"
 
 ![a](/img/in-post/img/dsc.png)
 
-原始图像大小为$$
-
- D_F \times D_F 
-
-$$，
-
-如果channel一共有$M$个，卷积核大小为$D_k \times D_k$。
+原始图像大小为$$ D_F \times D_F $$，如果channel一共有$M$个，卷积核大小为$D_k \times D_k$。
 
 * **Depthwise Convolution**
 
@@ -43,6 +37,12 @@ $$，
   在PW中，单个卷积核的大小为$1\times1\times M$，针对每个像素进行卷积，那么最后的运算复杂度为$D_F \times D_F \times M \times N$。
 
 采用Depthwise Separable Convolution，运算复杂度为$D_F \times D_F \times M \times D_k \times D_k + D_F \times D_F \times M \times N$。和普通的卷积层的操作相对比为：
+
+$$ \begin{equation}
+
+\frac{D_F \times D_F \times M \times D_k \times D_k + D_F \times D_F \times M \times N}{D_F \times D_F \times M \times N \times D_k \times D_k} = \frac{1}{N}·\frac{1}{D_k^2} 
+
+\end{equation}$$
 
 $\frac{D_F \times D_F \times M \times D_k \times D_k + D_F \times D_F \times M \times N}{D_F \times D_F \times M \times N \times D_k \times D_k} = \frac{1}{N}·\frac{1}{D_k^2} $
 
