@@ -1,7 +1,8 @@
 ---
-title: "Efficient Net"
-author: "Jian-Hui Duan"
-tags:网络压缩 Nets-Compression
+layout: 	post
+title: 		"Efficient Net"
+author: 	"Jian-Hui Duan"
+tags:		网络压缩 Nets-Compression
 ---
 
 # Efeficient Net
