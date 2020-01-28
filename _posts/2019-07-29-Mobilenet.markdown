@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Describe MobileNets"
-date:       2018-01-29 12:00:00
+date:       2019-07-29 12:00:00
 author:     "Jian-Hui Duan"
 header-img: "img/post-bg-2015.jpg"
 ---
@@ -43,8 +43,6 @@ $$ \begin{equation}
 \frac{D_F \times D_F \times M \times D_k \times D_k + D_F \times D_F \times M \times N}{D_F \times D_F \times M \times N \times D_k \times D_k} = \frac{1}{N}·\frac{1}{D_k^2} 
 
 \end{equation}$$
-
-$\frac{D_F \times D_F \times M \times D_k \times D_k + D_F \times D_F \times M \times N}{D_F \times D_F \times M \times N \times D_k \times D_k} = \frac{1}{N}·\frac{1}{D_k^2} $
 
 #### 运算优势
 
