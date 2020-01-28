@@ -1,8 +1,11 @@
 # Efeficient Net
 
 论文：EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+
 论文链接：https://arxiv.org/abs/1905.11946
+
 代码链接：https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet
+
 第三方实现的PyTorch代码：https://github.com/lukemelas/EfficientNet-PyTorch
 
 
@@ -42,7 +45,7 @@ Resolution：输入图像的分辨率大小
 
 输入$X$大小为$<H, W, C>$，分别代表图像分辨率的高与宽以及channel数量，一个卷积神经网络可以看作一个函数$\mathcal{F}$，该层神经网络的输出就是$Y = \mathcal{F}(X)$，整个神经网络堆叠起来用$\mathcal{N}$表示。下面的公式表示：在保证内存使用上限以及运算量上限的前提下，使得当前网络能够得到d,w,r的调整使得在基础网络的基础上达到最大的准确率。
 
-![](/img/in-post/img/eq.png)
+<img src="/img/in-post/img/eq.png" style="zoom:50%;" />
 
 文中的一大要求是：我们当前的环境中内存大小是M，我们要求的运算次数是F，那么最后得到的模型不能超过我们的限制，这样的优化办法让神经网络能在小内存以及要求运算量少的平台上有用武之地，并且精度还很高。
 

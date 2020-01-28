@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Describe MobileNets"
+title:      "MobileNets Analysis: From V1 to V3"
 date:       2019-07-29 12:00:00
 author:     "Jian-Hui Duan"
 header-img: "img/post-bg-2015.jpg"
