@@ -1,11 +1,11 @@
 ---
 layout: 	post
-title: 		"Efficient Net"
+title: 		"EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks"
 author: 	"Jian-Hui Duan"
 tags:		网络压缩 Nets-Compression
 ---
 
-# Efeficient Net
+
 
 论文：EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
 

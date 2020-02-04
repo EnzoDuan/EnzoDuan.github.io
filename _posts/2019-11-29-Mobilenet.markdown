@@ -5,7 +5,7 @@ author:     "Jian-Hui Duan"
 tags: 		网络压缩 Nets-Compression
 ---
 
-# MobileNet
+
 
 ## 1. **Depthwise Separable Convolution**
 
@@ -55,7 +55,10 @@ MobileNet的最大优势是将矩阵运算从原先的三维矩阵降低至二�
 
 整个网络有28层，单独的DW层与单独的PW层都算是一层。其中的s1,s2等表示stride=1或者stride=2，用来降采样。当然**每个卷积层之后都要紧跟着BN层，然后通过ReLU层。**整体网络的运算复杂度95%都在$1 \times 1$ 卷积的地方，并且这个那个网络的75%的参数也都在$1\times 1$卷积。
 
- <img src="/img/in-post/img/conv.png" width = "300" height = "200" alt="/img/in-post/img/conv.png" /><img src="/img/in-post/img/para.png" width = "400" height = "200" alt="/img/in-post/img/conv.png" />
+<center class="half"> 
+  <img src="/img/in-post/img/conv.png" width = "300" height = "200" alt="/img/in-post/img/conv.png" />
+  <img src="/img/in-post/img/para.png" width = "400" height = "200" alt="/img/in-post/img/conv.png" />
+</center>  
 
 #### 两个参数
 
@@ -67,11 +70,10 @@ MobileNet的最大优势是将矩阵运算从原先的三维矩阵降低至二�
 
   这个参数用来控制网络中每一层输入图像的大小，控制输入图像的size变为原先的$\rho$倍。此时的计算复杂度应该为$\rho D_F \times \rho D_F \times \alpha M \times D_k \times D_k + \rho D_F \times \rho D_F \times \alpha M \times \alpha N$。其中$\rho \in (0, 1]$，这时候根据图像的size需要决定$\rho$的大小，图像size在论文中设置为224，192，160，128。根据上述的算式，最后的计算复杂度相对于这个参数而言，减少量为$O(\rho^2)$。
 
-  
-
-  <img src="/img/in-post/img/45.png" width = "350" height = "200" /><img src="/img/in-post/img/67.png" width = "350" height = "200" />
-
-
+<center class="half"> 
+  <img src="/img/in-post/img/45.png" width = "350" height = "200" />
+  <img src="/img/in-post/img/67.png" width = "350" height = "200" />
+</center> 
 
 对于两个参数如何应用解释如下：
 
