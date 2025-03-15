@@ -1,7 +1,7 @@
 # Site settings
 title: Jian-Hui Duan
 SEOTitle: 段建辉的博客 | Enzo-Duan Blog
-header-img: img/home-bg.jpg
+header-img: img/event_horizon.jpg
 email: djhbarca@gmail.com
 description: ""
 keyword: ""
@@ -14,7 +14,7 @@ keyword: ""
 RSS: false
 # weibo_username:     huxpro
 # zhihu_username:     huxpro
-github_username:    enzoDuan
+github_username:    EnzoDuan
 #twitter_username:  huxpro
 # facebook_username:  huxpro
 
@@ -68,8 +68,8 @@ ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Distributed Machine Learning; Edge Computing。"
-sidebar-avatar: /img/toby.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "ByteDance Seed LLM\nDistributed Machine Learning"
+sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
