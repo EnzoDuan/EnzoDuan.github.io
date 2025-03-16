@@ -1,9 +1,24 @@
 ---
 layout: page
 description: ""
+multilingual: true
 ---
 
-{% for post in paginator.posts %}
+{% include multilingual-sel.html %}
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+    {{ about_zh | markdownify }}
+</div>
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
+
+<!-- {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
@@ -23,10 +38,10 @@ description: ""
     </p>
 </div>
 <hr>
-{% endfor %}
+{% endfor %} -->
 
 <!-- Pager -->
-{% if paginator.total_pages > 1 %}
+<!-- {% if paginator.total_pages > 1 %}
 <ul class="pager">
     {% if paginator.previous_page %}
     <li class="previous">
@@ -39,4 +54,4 @@ description: ""
     </li>
     {% endif %}
 </ul>
-{% endif %}
+{% endif %} -->
