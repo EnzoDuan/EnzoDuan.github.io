@@ -71,7 +71,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "ByteDance Seed LLM; Distributed Machine Learning"
+sidebar-about-description: "LLM Researcher@Seed Bytedance"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

@@ -18,7 +18,32 @@ multilingual: true
     {{ about_zh | markdownify }}
 </div>
 
+<script type="text/javascript">
+    // 添加语言切换功能
+    function onLanChange(index){
+        var items = document.querySelectorAll('.post-container');
+        if(items.length === 2){
+            var $zh = items[1];
+            var $en = items[0];
+            if(index === '0'){
+                $zh.style.display = 'block';
+                $en.style.display = 'none';
+            }else{
+                $zh.style.display = 'none';
+                $en.style.display = 'block';
+            }
+        }
+    }
 
+    // 页面加载时默认显示英文
+    document.addEventListener('DOMContentLoaded', function() {
+        var langSelect = document.querySelector('.sel-lang');
+        if (langSelect) {
+            langSelect.value = '1'; // 设置选择器默认值为英文
+            onLanChange('1'); // 触发切换函数
+        }
+    });
+</script>
 
 <!-- {% for post in paginator.posts %}
 <div class="post-preview">
