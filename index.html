@@ -21,26 +21,27 @@ multilingual: true
 <script type="text/javascript">
     // 添加语言切换功能
     function onLanChange(index){
-        var items = document.querySelectorAll('.post-container');
-        if(items.length === 2){
-            var $zh = items[1];
-            var $en = items[0];
-            if(index === '0'){
-                $zh.style.display = 'block';
-                $en.style.display = 'none';
-            }else{
-                $zh.style.display = 'none';
-                $en.style.display = 'block';
-            }
+        var $zh = document.querySelector('.zh.post-container');
+        var $en = document.querySelector('.en.post-container');
+        
+        if(index === '0'){
+            $zh.style.display = 'block';
+            $en.style.display = 'none';
+        }else{
+            $zh.style.display = 'none';
+            $en.style.display = 'block';
         }
     }
 
-    // 页面加载时默认显示英文
+    // 确保DOM完全加载后立即执行
     document.addEventListener('DOMContentLoaded', function() {
+        // 立即触发显示英文版本
+        onLanChange('1');
+        
+        // 设置选择器的值
         var langSelect = document.querySelector('.sel-lang');
         if (langSelect) {
-            langSelect.value = '1'; // 设置选择器默认值为英文
-            onLanChange('1'); // 触发切换函数
+            langSelect.value = '1';
         }
     });
 </script>
