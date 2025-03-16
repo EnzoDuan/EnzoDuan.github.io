@@ -6,30 +6,27 @@ header-img: "img/event_horizon.jpg"
 permalink: /blogs/
 ---
 
-{% raw %}
-<div class="post-preview-container">
-    {% for post in paginator.posts %}
-    <div class="post-preview">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-            <h2 class="post-title">
-                {{ post.title }}
-            </h2>
-            {% if post.subtitle %}
-            <h3 class="post-subtitle">
-                {{ post.subtitle }}
-            </h3>
-            {% endif %}
-            <div class="post-content-preview">
-                {{ post.content | strip_html | truncate:200 }}
-            </div>
-        </a>
-        <p class="post-meta">
-            Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
-        </p>
-    </div>
-    <hr>
-    {% endfor %}
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+        <div class="post-content-preview">
+            {{ post.content | strip_html | truncate:200 }}
+        </div>
+    </a>
+    <p class="post-meta">
+        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
 </div>
+<hr>
+{% endfor %}
 
 <!-- 分页链接 -->
 {% if paginator.total_pages > 1 %}
@@ -46,4 +43,3 @@ permalink: /blogs/
     {% endif %}
 </ul>
 {% endif %}
-{% endraw %}
