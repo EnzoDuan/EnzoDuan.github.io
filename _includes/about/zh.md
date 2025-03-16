@@ -6,6 +6,7 @@
 - 高质量训练数据挖掘
 - 数据分布漂移对深度学习的影响
 - 机器学习基础理论与超大规模训练的结合
+- 大语言模型推理能力及其泛化性
 
 #### 发表论文
 - **Jian-Hui Duan**, Wenzhong Li, Derun Zou, Ruichen Li, Sanglu Lu, Federated Learning with Data-Agnostic Distribution Fusion, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023), Vancouver, Canada, Jun 18-22, 2023.

@@ -9,6 +9,7 @@ My main research direction focuses on machine learning and data mining methods w
 - High-quality training data mining
 - Data distribution shift on deep learning
 - The integration of fundamental theories of machine learning with ultra-large-scale training
+- Reasoning ability of LLM/VLM and its generalization
 
 #### Selected Publications
 - **Jian-Hui Duan**, Wenzhong Li, Derun Zou, Ruichen Li, Sanglu Lu, Federated Learning with Data-Agnostic Distribution Fusion, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023), Vancouver, Canada, Jun 18-22, 2023.
