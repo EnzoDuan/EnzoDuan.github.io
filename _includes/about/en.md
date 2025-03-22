@@ -1,4 +1,4 @@
-Currently, I am an algorithm researcher in the LLM team (Seed) of ByteDance, and my main job responsibilities involve training algorithms and data mining. In 2022, I obtained a Master's degree in Computer Science from Nanjing University, and in 2019, I received a Bachelor's degree in Computer Science from Nanjing University.
+Currently, I am an algorithm researcher in the ByteDance Seed LLM team, and my main job responsibilities involve training algorithms and data mining. In 2022, I obtained a Master's degree in Computer Science from Nanjing University, and in 2019, I received a Bachelor's degree in Computer Science from Nanjing University.
 
 
 #### Research Interests
