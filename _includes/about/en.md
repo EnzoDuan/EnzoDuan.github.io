@@ -1,9 +1,9 @@
-Currently, I am an algorithm researcher in the ByteDance Seed LLM team, and my main job responsibilities involve training algorithms and data mining. In 2022, I obtained a Master's degree in Computer Science from Nanjing University, and in 2019, I received a Bachelor's degree in Computer Science from Nanjing University.
+Currently, I am an algorithm researcher in ByteDance Seed LLM team, and my main job responsibilities involve training algorithms and data mining. In 2022, I obtained Master's degree in Computer Science from Nanjing University, and in 2019, I received Bachelor's degree in Computer Science from Nanjing University.
 
 
 #### Research Interests
 
-My main research direction focuses on machine learning and data mining methods with demonstrable theoretical foundations. Meanwhile, I am passionate about efficient deep learning training approaches. Therefore, my main research areas cover the following topics:
+My main research interests focuse on machine learning and data mining methods with demonstrable theoretical foundations. Meanwhile, I am passionate about efficient deep learning training strategies. Therefore, my main research areas cover the following topics:
 
 - Exploration of training optimization and training methods
 - High-quality training data mining
