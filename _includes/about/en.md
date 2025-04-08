@@ -3,7 +3,7 @@ Currently, I am an algorithm researcher in ByteDance Seed LLM team, and my main 
 
 #### Research Interests
 
-My main research interests focuse on machine learning and data mining methods with demonstrable theoretical foundations. Meanwhile, I am passionate about efficient deep learning training strategies. Therefore, my main research areas cover the following topics:
+My research interests focuse on machine learning and data mining methods with demonstrable theoretical foundations. Meanwhile, I am passionate about efficient deep learning training strategies. Therefore, my main research areas cover the following topics:
 
 - Exploration of training optimization and training methods
 - High-quality training data mining
