@@ -9,6 +9,7 @@
 - 大语言模型推理能力及其泛化性
 
 #### 发表论文
+- Seed LLM Team. Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning. \[Github](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5). Apr. 2025.
 - **Jian-Hui Duan**, Wenzhong Li, Derun Zou, Ruichen Li, Sanglu Lu, Federated Learning with Data-Agnostic Distribution Fusion, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023), Vancouver, Canada, Jun 18-22, 2023.
 - **Jian-Hui Duan**, Wenzhong Li, Sanglu Lu, FedDNA: Federated Learning with Decoupled Normalization-Layer Aggregation for Non-IID Data, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2021), Bilbao, Spain, Sep 13-17, 2021.
 - **Jian-Hui Duan**, Wenzhong Li, Xiao Zhang, Sanglu Lu, Forecasting fine-grained city-scale cellular traffic with sparse crowdsourced measurements, Computer Networks, 39(2461-2475), Volume 214, pp 1-14, Sep 4 2022.
