@@ -6,7 +6,7 @@
 Currently, I am an algorithm researcher in ByteDance Seed LLM team, and my main job responsibilities involve training algorithms and data mining.
 
 ### Education  
-- Master of Computer Science @ <span style="color:rgb(106, 0, 95);"><b>Nanjing University</b></span> (2020–2022)  
+- Master of Computer Science @ <span style="color:rgb(106, 0, 95);"><b>Nanjing University</b></span> (2019–2022)  
 - Bachelor of Computer Science @ <span style="color:rgb(106, 0, 95);"><b>Nanjing University</b></span> (2015–2019)  
 
 ### Research Interests
