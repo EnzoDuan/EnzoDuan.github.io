@@ -19,13 +19,13 @@ My work centers on machine learning and data mining methods with demonstrable th
 - 🤖 Reasoning capabilities and generalization of LLM/VLM  
 
 ### Selected Publications
-- Seed VLM&LLM Team. Seed1.5-VL Technical Report. arXiv:2505.07062. May. 2025.
-- Seed LLM Team. Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning. arXiv:2504.13914. Apr. 2025.
-- <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Derun Zou, Ruichen Li, Sanglu Lu, Federated Learning with Data-Agnostic Distribution Fusion, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023), Vancouver, Canada, Jun 18-22, 2023.
-- <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Sanglu Lu, FedDNA: Federated Learning with Decoupled Normalization-Layer Aggregation for Non-IID Data, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2021), Bilbao, Spain, Sep 13-17, 2021.
-- <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Xiao Zhang, Sanglu Lu, Forecasting fine-grained city-scale cellular traffic with sparse crowdsourced measurements, Computer Networks, 39(2461-2475), Volume 214, pp 1-14, Sep 4 2022.
-- Wangxiang Ding, Wenzhong Li, Zhijie Zhang, Chen Wan, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Sanglu Lu, Time-varying Gaussian Markov Random Fields Learning for Multivariate Time Series Clustering, IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 35, no. 11, Nov 2023.
-- Derun Zou, Xusheng Liu, Lintan Sun, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Ruichen Li, Yeting Xu, Wenzhong Li, Sanglu Lu, FedMC: Federated Reinforcement Learning on the Edge with Meta-Critic Networks, IEEE International Performance, Computing, and Communications Conference (IPCCC'22), Austin, Texas, USA, November 11-13, 2022.
+- Seed VLM&LLM Team. **Seed1.5-VL Technical Report**. arXiv:2505.07062. May. 2025.
+- Seed LLM Team. **Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning**. arXiv:2504.13914. Apr. 2025.
+- <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Derun Zou, Ruichen Li, Sanglu Lu, <b>Federated Learning with Data-Agnostic Distribution Fusion</b>, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023), Vancouver, Canada, Jun 18-22, 2023.
+- <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Sanglu Lu, <b>FedDNA: Federated Learning with Decoupled Normalization-Layer Aggregation for Non-IID Data</b>, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2021), Bilbao, Spain, Sep 13-17, 2021.
+- <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Xiao Zhang, Sanglu Lu, <b>Forecasting fine-grained city-scale cellular traffic with sparse crowdsourced measurements</b>, Computer Networks, 39(2461-2475), Volume 214, pp 1-14, Sep 4 2022.
+- Wangxiang Ding, Wenzhong Li, Zhijie Zhang, Chen Wan, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Sanglu Lu, <b>Time-varying Gaussian Markov Random Fields Learning for Multivariate Time Series Clustering</b>, IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 35, no. 11, Nov 2023.
+- Derun Zou, Xusheng Liu, Lintan Sun, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Ruichen Li, Yeting Xu, Wenzhong Li, Sanglu Lu, <b>FedMC: Federated Reinforcement Learning on the Edge with Meta-Critic Networks</b>, IEEE International Performance, Computing, and Communications Conference (IPCCC'22), Austin, Texas, USA, November 11-13, 2022.
 
 
 ### Contact  
