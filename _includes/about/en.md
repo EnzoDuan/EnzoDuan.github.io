@@ -25,3 +25,8 @@ My work centers on machine learning and data mining methods with demonstrable th
 - <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Xiao Zhang, Sanglu Lu, Forecasting fine-grained city-scale cellular traffic with sparse crowdsourced measurements, Computer Networks, 39(2461-2475), Volume 214, pp 1-14, Sep 4 2022.
 - Wangxiang Ding, Wenzhong Li, Zhijie Zhang, Chen Wan, **Jianhui Duan**, Sanglu Lu, Time-varying Gaussian Markov Random Fields Learning for Multivariate Time Series Clustering, IEEE Transactions on Knowledge and Data Engineering (TKDE), vol. 35, no. 11, Nov 2023.
 - Derun Zou, Xusheng Liu, Lintan Sun, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Ruichen Li, Yeting Xu, Wenzhong Li, Sanglu Lu, FedMC: Federated Reinforcement Learning on the Edge with Meta-Critic Networks, IEEE International Performance, Computing, and Communications Conference (IPCCC'22), Austin, Texas, USA, November 11-13, 2022.
+
+
+### Contact  
+📧 Email: djhbarca[at]163.com
+🔗 LinkedIn: [linkedin.com/in/jianhui-duan](https://www.linkedin.com/in/jianhui-duan-88824a125/) 
