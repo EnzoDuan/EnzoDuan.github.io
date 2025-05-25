@@ -1,14 +1,13 @@
 
-<span style="color: #4285F4;"><b>Algorithm Researcher | ByteDance Seed LLM Team | djhbarca[at]163.com</b></span>
+<span style="color: #4285F4;"><b>LLM Researcher | ByteDance Seed LLM | djhbarca[at]163.com</b></span>
 
-🌱💼<span style="color:rgb(106, 0, 95);">We are currently recruiting interns for LLM research at Seed. If you are interested in contributing to this field, please reach out to me directly.</span>
+🌱💼: <span style="color:rgb(106, 0, 95);">We are currently recruiting interns for LLM research at Seed. If you are interested in contributing to this field, please reach out to me directly.</span>
 
 Currently, I am an algorithm researcher in ByteDance Seed LLM team, and my main job responsibilities involve training algorithms and data mining.
 
 ### Education  
-<span style="color:rgb(106, 0, 95);"><b>Nanjing University</b></span> 
-- Master of Computer Science (2020–2022)  
-- Bachelor of Computer Science (2015–2019)  
+- Master of Computer Science @ <span style="color:rgb(106, 0, 95);"><b>Nanjing University</b></span> (2020–2022)  
+- Bachelor of Computer Science @ <span style="color:rgb(106, 0, 95);"><b>Nanjing University</b></span> (2015–2019)  
 
 ### Research Interests
 
