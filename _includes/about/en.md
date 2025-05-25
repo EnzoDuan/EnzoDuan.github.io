@@ -1,5 +1,7 @@
 
-<span style="color: #4285F4;"><b>Algorithm Researcher | ByteDance Seed LLM Team</b></span>  
+<span style="color: #4285F4;"><b>Algorithm Researcher | ByteDance Seed LLM Team | djhbarca[at]163.com</b></span>
+
+🌱💼<span style="color:rgb(106, 0, 95);">We are currently recruiting interns for LLM research at Seed. If you are interested in contributing to this field, please reach out to me directly.</span>
 
 Currently, I am an algorithm researcher in ByteDance Seed LLM team, and my main job responsibilities involve training algorithms and data mining.
 
@@ -28,5 +30,5 @@ My work centers on machine learning and data mining methods with demonstrable th
 
 
 ### Contact  
-📧 Email: djhbarca[at]163.com
-🔗 LinkedIn: [linkedin.com/in/jianhui-duan](https://www.linkedin.com/in/jianhui-duan-88824a125/) 
+- 📧 Email: djhbarca[at]163.com
+- 🔗 LinkedIn: [linkedin.com/in/jianhui-duan](https://www.linkedin.com/in/jianhui-duan-88824a125/) 

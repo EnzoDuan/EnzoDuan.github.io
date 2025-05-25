@@ -25,5 +25,5 @@
 - Derun Zou, Xusheng Liu, Lintan Sun, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Ruichen Li, Yeting Xu, Wenzhong Li, Sanglu Lu, FedMC: Federated Reinforcement Learning on the Edge with Meta-Critic Networks, IEEE International Performance, Computing, and Communications Conference (IPCCC'22), Austin, Texas, USA, November 11-13, 2022.
 
 ### 联系方式
-📧 Email: djhbarca[at]163.com
-🔗 LinkedIn: [linkedin.com/in/jianhui-duan](https://www.linkedin.com/in/jianhui-duan-88824a125/) 
+- 📧 Email: djhbarca[at]163.com
+- 🔗 LinkedIn: [linkedin.com/in/jianhui-duan](https://www.linkedin.com/in/jianhui-duan-88824a125/) 
