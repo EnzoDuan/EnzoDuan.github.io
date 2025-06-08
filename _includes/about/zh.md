@@ -12,12 +12,12 @@
 - 高质量训练数据挖掘
 - 数据分布漂移对深度学习的影响
 - 机器学习基础理论与超大规模训练的结合
-- 大语言模型推理能力及其泛化性
+- 大语言模型理解性范式与泛化性研究
 
 ### 发表论文
 - Seed VLM&LLM Team. **Seed1.5-VL Technical Report**. arXiv:2505.07062. May. 2025.
 - Seed LLM Team. **Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning**. arXiv:2504.13914. Apr. 2025.
-- Haoran Zong, Xiao Zhang, Ruichen Li, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Derun Zou, Wenzhong Li. <b>Convergence Guaranteed Federated Learning through Gradient Trajectory Smoothing with Triple-Objective Decomposition.</b>, ACM Transactions on Knowledge Discovery from Data, DOI: 10.1145/3743142, June 2025.
+- Haoran Zong, Xiao Zhang, Ruichen Li, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Derun Zou, Wenzhong Li. <b>Convergence Guaranteed Federated Learning through Gradient Trajectory Smoothing with Triple-Objective Decomposition.</b>, ACM Transactions on Knowledge Discovery from Data, DOI: 10.1145/3743142, Jun 2025.
 - <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Derun Zou, Ruichen Li, Sanglu Lu, <b>Federated Learning with Data-Agnostic Distribution Fusion</b>, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023), Vancouver, Canada, Jun 18-22, 2023.
 - <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Sanglu Lu, <b>FedDNA: Federated Learning with Decoupled Normalization-Layer Aggregation for Non-IID Data</b>, European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2021), Bilbao, Spain, Sep 13-17, 2021.
 - <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Wenzhong Li, Xiao Zhang, Sanglu Lu, <b>Forecasting fine-grained city-scale cellular traffic with sparse crowdsourced measurements</b>, Computer Networks, 39(2461-2475), Volume 214, pp 1-14, Sep 4 2022.
