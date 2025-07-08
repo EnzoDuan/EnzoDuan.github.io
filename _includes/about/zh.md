@@ -15,7 +15,6 @@
 - 大语言模型理解性范式与泛化性研究
 
 ### 最新活动
-### Latest Activity
 - 🆕 <span style="color:rgb(106, 0, 95);"><b>Latest Blog</b></span>: Seed LLM&VLM Team. **[Seed-1.6](https://seed.bytedance.com/en/seed1_6)**
 - 🆕 <span style="color:rgb(106, 0, 95);"><b>Latest Paper</b></span>: Haoran Zong, Xiao Zhang, Ruichen Li, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Derun Zou, Wenzhong Li. <b>Convergence Guaranteed Federated Learning through Gradient Trajectory Smoothing with Triple-Objective Decomposition.</b>, ACM Transactions on Knowledge Discovery from Data, DOI: 10.1145/3743142, Jun 2025.
 
