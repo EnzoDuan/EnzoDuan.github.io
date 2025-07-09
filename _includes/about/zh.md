@@ -19,7 +19,7 @@
 - 🆕 <span style="color:rgb(106, 0, 95);"><b>Latest Paper</b></span>: Haoran Zong, Xiao Zhang, Ruichen Li, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Derun Zou, Wenzhong Li. <b>Convergence Guaranteed Federated Learning through Gradient Trajectory Smoothing with Triple-Objective Decomposition.</b>, ACM Transactions on Knowledge Discovery from Data, DOI: 10.1145/3743142, Jun 2025.
 
 ### 发表论文 [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=H6fOj2UAAAAJ)]
-- Seed LLM&VLM Team. **[[Seed-1.6](https://seed.bytedance.com/en/seed1_6)]**
+- Seed LLM&VLM Team. **[Seed-1.6](https://seed.bytedance.com/en/seed1_6)**
 - Seed VLM&LLM Team. **Seed1.5-VL Technical Report**. arXiv:2505.07062. May. 2025.
 - Seed LLM Team. **Seed-Thinking-v1.5: Advancing Superb Reasoning Models with Reinforcement Learning**. arXiv:2504.13914. Apr. 2025.
 - Haoran Zong, Xiao Zhang, Ruichen Li, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Derun Zou, Wenzhong Li. <b>Convergence Guaranteed Federated Learning through Gradient Trajectory Smoothing with Triple-Objective Decomposition.</b>, ACM Transactions on Knowledge Discovery from Data, DOI: 10.1145/3743142, Jun 2025.
