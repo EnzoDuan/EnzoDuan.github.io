@@ -11,12 +11,14 @@ Currently, I am an algorithm researcher in ByteDance Seed LLM team, and my main 
 
 ### Research Interests
 
-My work centers on machine learning and data mining methods with demonstrable theoretical foundations. Key research directions include:  
-- 🔬 Training optimization algorithms and scalable training methodologies  
-- 🕵️ High-quality training data mining & curation  
-- ⚖️ Data distribution shift mitigation in deep learning  
-- 🧠 Theoretical foundations of ultra-large-scale model training  
-- 🤖 Understanding paradigm and generalization of LLM/VLM  
+My work centers on constructing pretraining data and learning methods for LLMs with demonstrable theoretical foundations. My key research contributions for Seed LLMs include:  
+- High-quality pre-training data mining & curation
+- Training optimization algorithms and scalable training methodologies    
+- Data distribution shift mitigation
+- Training SLMs and it can match DeepSeek-R1 performance with 2% parameters
+- The first proposal of scaling law of SFT stage
+- Theoretical foundations of ultra-large-scale model training  
+- Understanding paradigm and generalization of LLM/VLM  
 
 ### Latest Activity
 - 🆕 <span style="color:rgb(106, 0, 95);"><b>Latest Blog</b></span>: Seed LLM&VLM Team. **[Seed-1.6](https://seed.bytedance.com/en/seed1_6)**
