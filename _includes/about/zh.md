@@ -17,7 +17,7 @@
 - 大语言模型/语言视觉模型的理解性范式与泛化性研究
 
 ### 最新活动
-- 🆕 <span style="color:rgb(106, 0, 95);"><b>Latest Blog</b></span>: Seed LLM&VLM Team. **[Seed-1.6](https://seed.bytedance.com/en/seed1_6)**
+- 🆕 <span style="color:rgb(106, 0, 95);"><b>Latest Blog</b></span>: Seed LLM&VLM Team. **[Seed-2.0 Blogs](https://seed.bytedance.com/en/blog/seed2-0-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)** and **[Seed-2.0 Model Card](https://lf3-static.bytednsdoc.com/obj/eden-cn/lapzild-tss/ljhwZthlaukjlkulzlp/seed2/0214/Seed2.0%20Model%20Card.pdf)**.
 - 🆕 <span style="color:rgb(106, 0, 95);"><b>Latest Paper</b></span>: Haoran Zong, Xiao Zhang, Ruichen Li, <span style="color: #4285F4;"><b>Jian-Hui Duan</b></span>, Derun Zou, Wenzhong Li. <b>Convergence Guaranteed Federated Learning through Gradient Trajectory Smoothing with Triple-Objective Decomposition.</b>, ACM Transactions on Knowledge Discovery from Data, DOI: 10.1145/3743142, Jun 2025.
 
 ### 发表论文 [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=H6fOj2UAAAAJ)]
